@@ -1,0 +1,162 @@
+body {
+	color:#555;
+	background:#fff;
+	font-family:verdana,sans-serif,arial,helvetica;
+	font-weight:bold;
+	font-size:11px;
+	text-align:left;
+}
+
+
+
+div.main {
+	width:850px;
+	position:absolute;
+	top:25px;
+}
+
+div.mainpages {
+        width:800px;
+        position:absolute;
+        top:25px;
+}
+
+div.left {
+	float:left;
+	color:#111;
+	font:12px verdana,sans-serif,arial;
+	width:550px;
+	margin-left:50px;
+}
+
+div.leftpages {
+        float:left;
+        color:#111;
+        font:12px verdana,sans-serif,arial;
+        font-weight:normal;
+        width:500px;
+        margin-left:50px;
+}
+
+div.right {
+	float:right;
+	width:150px;
+	margin-top:50px;
+}
+
+div.rightpages {
+        float:right;
+        width:150px;
+        margin-top:50px;
+}
+
+
+
+
+span.main_header {
+	color:#222;
+	font-family:monospace;
+	font-size:44px;
+}
+
+span.pagetitle {
+        color:#005546;
+        font-size:32px;
+}
+
+span.black {
+	color:#005546;
+}
+
+span.green {
+	color:#005546;
+}
+
+span.red {
+	color:#f33;
+}
+
+
+
+p.description {
+	margin-top:15px;
+	margin-bottom:35px;
+}
+
+
+
+table.filelist {
+        background:#fff;
+        border-style:solid;
+        border-width:1px;
+        border-color:#000;
+        margin-bottom:24px;
+        border-collapse:collapse;
+}
+
+th.gray {
+        color:#fff;
+        background:#005546;
+        font-weight:normal;
+}
+
+td.frame {
+        border-style:solid;
+        border-width:1px;
+        border-color:#000;
+}
+
+td.frameleft {
+        border-style:solid;
+        border-width:1px;
+        border-right-width:0px;
+        border-color:#000;
+        padding-right:15px;
+}
+
+td.frameright {
+        border-style:solid;
+        border-width:1px;
+        border-left-width:0px;
+        border-color:#000;
+}
+
+
+
+a:link, a:visited {
+	color:#777;
+	text-decoration:none;
+}
+
+a:hover, a:active, a:focus {
+	color:#005546;
+	text-decoration:none;
+}
+
+.centered	{text-align: center;}
+ 
+#navcontainer > ul:first-child { margin-bottom:10px; } 
+ 
+#navcontainer ul
+{
+margin: 0;
+padding: 0;
+list-style-type: none;
+text-align: left;
+}
+
+#navcontainer ul li { display: inline; }
+
+#navcontainer ul li a
+{
+text-decoration: none;
+padding: .1em 1em;
+color: #fff;
+background-color: #005546;
+}
+
+#navcontainer ul li a:hover
+{
+color: #fff;
+background-color: #005546;
+}

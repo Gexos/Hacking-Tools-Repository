@@ -1,6 +1,6 @@
 Hacking Tools Repository
 ========================
-**http://gexos.github.io/hacking-tools-repository**
+**http://gexos.github.io/Hacking-Tools-Repository/**
 
 **Creating tables in markdown is quite troublesome, so I made this repo in html.**
 ***

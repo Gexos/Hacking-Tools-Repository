@@ -2,7 +2,7 @@ Hacking Tools Repository
 ========================
 **Creating tables in markdown is quite troublesome, so I made this repo in HTML:  http://gexos.github.io/hacking-tools-repository**
 ***
-**If you have suggestions or links to submit, please do, you can leave a comment on the wiki page.**
+**If you have suggestions or links to submit, please do, you can leave a comment on the wiki page, your name or github page will be credited in this page .**
 
 **The main categories are:**
 

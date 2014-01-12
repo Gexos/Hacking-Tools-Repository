@@ -1,9 +1,27 @@
-hacking-tools-repository
+Hacking Tools Repository
 ========================
-#####You can view the list here:  http://gexos.github.io/hacking-tools-repository
+**Creating tables in markdown is quite troublesome, so I made this repo in HTML:  http://gexos.github.io/hacking-tools-repository**
 ***
+**If you have suggestions or links to submit, please do, you can leave a comment on the wiki page.**
 
-Here is a list of security tools that have been collected from the internet. These tools are specifically aimed toward security professionals and enthusiasts/hobbyists for testing and demonstrating security weaknesses.
+**The main categories are:**
+
+ - Passwords
+ - Scanning
+ - Sniffer
+ - Enumeration
+ - Networking Tools
+ - Wireless
+ - Bluetooth
+ - Web Scanners
+ - Database
+ - Vuln Scanners
+ - Vuln Apps
+ - Live CD
+
+
+----------
+This is a list of security tools that have been collected from the internet. These tools are specifically aimed toward security professionals and enthusiasts/hobbyists for testing and demonstrating security weaknesses.
 
 These tools are created for the sole purpose of security awareness and education, they should not be used against systems that you do not have permission to test/attack. You could end up in jail.
 

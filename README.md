@@ -30,4 +30,11 @@ These tools are created for the sole purpose of security awareness and education
 Most of the tools are open source/free with a couple of exceptions, before using any tools, i recommend that you read the instructions/documentation available on each of the individual tool's websites. Although some of the tools could be listed in more than one category, they only appear in the list only once, under its primary category. 
 
 
+----------
+New Entries and Credits.
+---------------------
+**[ZMap][2]:** Scanner tool, link provided by [K3r0sen (Marius Corici)][3]
+
   [1]: https://github.com/Gexos/hacking-tools-repository/wiki
+  [2]: https://zmap.io/
+  [3]: https://github.com/K3r0sen

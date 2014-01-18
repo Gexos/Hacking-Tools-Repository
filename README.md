@@ -35,6 +35,13 @@ New Entries and Credits.
 ---------------------
 **[ZMap][2]:** Scanner tool, link provided by [K3r0sen (Marius Corici)][3]
 
+**[BlackArch Linux][4]:** Arch-based Security Distro, link provided by [paraxor][5]
+
   [1]: https://github.com/Gexos/hacking-tools-repository/wiki
   [2]: https://zmap.io/
   [3]: https://github.com/K3r0sen
+  [4]: http://www.blackarch.org/
+  [5]: https://github.com/paraxor
+  
+  
+  

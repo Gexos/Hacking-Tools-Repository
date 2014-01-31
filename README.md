@@ -37,11 +37,14 @@ New Entries and Credits.
 
 **[BlackArch Linux][4]:** Arch-based Security Distro, link provided by [paraxor][5]
 
+**[Subdomain-bruteforcer][6]:** Python subdomain bruteforce tool, link provided by [ldionmarcil][7]
+
   [1]: https://github.com/Gexos/hacking-tools-repository/wiki
   [2]: https://zmap.io/
   [3]: https://github.com/K3r0sen
   [4]: http://www.blackarch.org/
   [5]: https://github.com/paraxor
-  
+  [6]: https://github.com/TheRook/subbrute
+  [7]: https://github.com/ldionmarcil
   
   

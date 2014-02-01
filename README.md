@@ -39,6 +39,8 @@ New Entries and Credits.
 
 **[Subdomain-bruteforcer][6]:** Python subdomain bruteforce tool, link provided by [ldionmarcil][7]
 
+**[ircsnapshot][8]:** Python tool to gather information from IRC servers, link provided by [ldionmarcil][9]
+
   [1]: https://github.com/Gexos/hacking-tools-repository/wiki
   [2]: https://zmap.io/
   [3]: https://github.com/K3r0sen
@@ -46,5 +48,6 @@ New Entries and Credits.
   [5]: https://github.com/paraxor
   [6]: https://github.com/TheRook/subbrute
   [7]: https://github.com/ldionmarcil
-  
+  [8]: https://github.com/bwall/ircsnapshot
+  [9]: https://github.com/ldionmarcil
   

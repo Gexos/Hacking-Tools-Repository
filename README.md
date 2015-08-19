@@ -41,6 +41,9 @@ New Entries and Credits.
 
 **[ircsnapshot][8]:** Python tool to gather information from IRC servers, link provided by [ldionmarcil][9]
 
+**[KisMac2][10]:** KisMac2 is a fork and more up to date version of [KisMAC][12] and continues where original development of KisMac has stopped. KisMAC is a free, open source wireless stumbling and security tool for Mac OS X, link provided by [Patrick Roanhouse][11]
+
+
   [1]: https://github.com/Gexos/hacking-tools-repository/wiki
   [2]: https://zmap.io/
   [3]: https://github.com/K3r0sen
@@ -50,4 +53,6 @@ New Entries and Credits.
   [7]: https://github.com/ldionmarcil
   [8]: https://github.com/bwall/ircsnapshot
   [9]: https://github.com/ldionmarcil
-  
+  [10]: https://github.com/IGRSoft/KisMac2
+  [11]: https://github.com/PatrickRoanhouse
+  [12]: http://trac.kismac-ng.org/
